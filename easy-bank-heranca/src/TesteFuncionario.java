@@ -1,7 +1,7 @@
 public class TesteFuncionario {
     public static void main(String[] args){
 
-        Funcionario amanda = new Funcionario();
+        Funcionario amanda = new DevBackend();
         amanda.setNome("Amanda Fernandes");
         amanda.setCpf("222-333-555-87");
         amanda.setSalario(4350.90);
