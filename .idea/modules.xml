@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/easy-bank.iml" filepath="$PROJECT_DIR$/easy-bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy-bank-composto/easy-bank-composto.iml" filepath="$PROJECT_DIR$/easy-bank-composto/easy-bank-composto.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy-bank-encapsulado/easy-bank-encapsulado.iml" filepath="$PROJECT_DIR$/easy-bank-encapsulado/easy-bank-encapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy-bank-heranca/easy-bank-heranca.iml" filepath="$PROJECT_DIR$/easy-bank-heranca/easy-bank-heranca.iml" />
     </modules>
   </component>
 </project>
