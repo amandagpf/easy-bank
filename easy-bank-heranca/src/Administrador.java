@@ -1,14 +1,12 @@
-//gerente é um funcionario e assina o contrato autenticavel
-public class Gerente extends Funcionario implements Autenticavel{
+public class Administrador extends Funcionario implements Autenticavel {
 
     private AutenticacaoUtil autenticador;
-
-    public Gerente(){
-
+    public Administrador(){
+        this.autenticador = new AutenticacaoUtil();
     }
     @Override
     public double getBonificacao(){
-        return super.getSalario();
+        return 50.0;
     }
 
     @Override
